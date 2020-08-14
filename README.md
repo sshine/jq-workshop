@@ -5,6 +5,7 @@ This repository is for the BornHack 2020 workshop, [Solving jq Problems][bornhac
 ## Material
 
 - [Exercism jq Cookbook][exercism-cookbook]
+- [jq manual][jq-manual]
 - Try jq in your browser with [jqplay.org][jqplay]
 
 ## Examples from the wild
@@ -26,6 +27,7 @@ For JSON data, see the [json](./json) subdirectory.
 
 [bornhack2020]: https://bornhack.dk/bornhack-2020/program/solving-jq-problems/
 [exercism-cookbook]: https://github.com/exercism/exercism/issues/5055
+[jq-manual]: https://stedolan.github.io/jq/manual/
 [jqplay]: https://jqplay.org/
 
 [example-1]: https://github.com/exercism/problem-specifications/blob/master/bin/check_optional
