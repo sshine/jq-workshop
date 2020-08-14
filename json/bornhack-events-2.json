@@ -8,7 +8,7 @@
           "summary": "Lunch Break",
           "dtstart": "20200811T100000Z",
           "dtend": "20200811T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15971400-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
@@ -17,25 +17,16 @@
           "summary": "Hello World!",
           "dtstart": "20200811T190000Z",
           "dtend": "20200811T200000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15971724-0025-3316-1c67-dd584fc430d8",
           "description": "The BornHack 2020 team would like to welcome you to this years BornHack event at our new venue. We will walk over changes to the venue\\, schedule\\, and other information about the event itself.\\n\\nThis is also an excellent opportunity to meet the teams behind BornHack.",
           "location": "Speakers Tent"
         },
         {
-          "summary": "BornHack CTF 2020",
-          "dtstart": "20200812T090000Z",
-          "dtend": "20200812T120000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15972228-0026-336b-8ddc-ef85f454178a",
-          "description": "BornHack CTF is BACK\\, so prepare your Linux\\, python 2.7 and pwntools\\, it's time to hack  the planet  Fyn*\\n\\nThis CTF is of the Jeopardy style\\, and consists of multiple categories\\, including Web\\, Reverse-engineering\\, Pwn\\, Misc\\, and Crypto.\\nAre you new or experienced\\, this CTF is sure to have challenges for you. The start and end date for this on-site CTF is not yet public.\\n\\nIf you get stuck with challenges\\, need some beginner help\\, or just need a good place to sit while hacking\\, then stop by the PWNIES VILLAGE.",
-          "location": "Workshop Room"
-        },
-        {
           "summary": "Lunch Break",
           "dtstart": "20200812T100000Z",
           "dtend": "20200812T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972264-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
@@ -44,7 +35,7 @@
           "summary": "Roadtrip to UCL fablab",
           "dtstart": "20200812T100000Z",
           "dtend": "20200812T140000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972264-0030-3741-1c50-1d21bcb47248",
           "description": "Like last year\\, we have arranged for the Bornhack participants to go to the fablab at UCL.\\n\\nAt fablab they have lasercutters\\, 3D printers\\, sticker machine and so on. \\nDue to IT issues\\, they don't have an official info page at the moment - but they do have a facebooke page: https://www.facebook.com/FabLabUCL\\n\\n\\nWe will meet up at the info booth at 12.00 and go by car to the location i Odense.",
           "location": "Info Desk"
@@ -53,7 +44,7 @@
           "summary": "Electronic conference badges",
           "dtstart": "20200812T110000Z",
           "dtend": "20200812T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972300-0025-3251-5994-2bd83214856a",
           "description": "In this presentation\\, we will take a look at this years badge and a bit about the decisions and troubles leading up to this point.",
           "location": "Speakers Tent"
@@ -62,7 +53,7 @@
           "summary": "`niseq`: rethinking how live visual art is made",
           "dtstart": "20200812T120000Z",
           "dtend": "20200812T130000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972336-0025-3347-e602-7e874d3451d9",
           "description": "The talk will be about the live art instrument `niseq`\\, which stands for 'the n-dimensional image-sequencer'. It will revolve around the foundational ideas of why `niseq` is relevant as a tool for making art\\, the design of the instrument from an artists perspective - and around the technical aspects of the construction of the software in the functional language OCaml.\\n\\nMost of film-art made today is centered around a narrative structure - where the relevance of the film-medium has gone into the background\\, and has more become a fast-food alternative to books. Early film-experiments done by the dadaists and surrealists see so much more potential in the medium than what it has become today. `niseq` can be seen as 'going back to the roots' of early 1920's cinema\\, but at the same time bringing live art to the film-medium\\, as e.g. seen in modern electronic art made with modular synthesizers. \\n\\nThe software relies on modern graphics-cards and SSD's\\, and enables 60fps random-access to any video-frame of precompiled video-footage. This design enables a lot of creative constructs to be built on top. The reactive semantics of the instrument is entirely programmed using 'functional reactive programming'\\, which both enables efficiency\\, safety and declaration of time-semantics in a simple way. This structuring methodology is combined with OCamls 'first class modules' to enable a declarative functional variant of 'stateful objects'.",
           "location": "Speakers Tent"
@@ -71,7 +62,7 @@
           "summary": "Cyberpunk Notebook",
           "dtstart": "20200812T120000Z",
           "dtend": "20200812T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972336-0026-339d-01e8-94bdd844c368",
           "description": "In this workshop we will be making a cheap and pretty ugly notebook (the kind with paper\\, not a laptop) into a desirable object with a techy look. We will replace the cover with one made from circuit board.\\n\\nThere is cutting and glueing involved. It's a job for someone who can be careful and precise. To join\\, you have to be old enough to be trusted with sharp knives and spray glue\\; in case of doubt\\, please bring a parent.\\n\\nPlease note:\\nWe will be using pieces of circuitboard that have been cut to the size of 15.5 x 8 cm and from which all components have been removed. If you can do that beforehand\\, and bring it\\, that would be SUPER GREAT.\\n\\nThere is a fee of 5 (or 37 DKK) that covers all materials. Up to 8 people can join.",
           "location": "Workshop Room"
@@ -80,7 +71,7 @@
           "summary": "Emergency Manufacturing Coordination As A Legacy of COVID-19",
           "dtstart": "20200812T130000Z",
           "dtend": "20200812T140000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972372-0025-3262-5c63-1a5900e4a828",
           "description": "Over the period of the COVID-19 pandemic the disparate corners of the maker and hacker communities worldwide have come together to form a cottage industry that has successfully supplied PPE to hospitals and essential workers\\, helping to fill a significant shortfall in stock. In doing this we have gained valuable experience in setting up a successful distributed emergency manufacturing operation\\, and once the pandemic is over this collective knowledge should not be lost.\\n\\nThis talk aims to outline how in the time after the pandemic we should come together in some form of hacker's emergency manufacturing organisation\\, learn from how we responded to COVID-19\\, take all the things that went well and revisit those that didn't\\, and come up with a coordinated plan to retain the capability to spring into action again as a well-oiled machine in future similar emergencies.",
           "location": "Speakers Tent"
@@ -89,7 +80,7 @@
           "summary": "Utreexo: A dynamic hash-based accumulator data structure",
           "dtstart": "20200812T140000Z",
           "dtend": "20200812T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972408-0025-352a-5fec-3f19c764db1b",
           "description": "Utreexo is a forest of perfect Merkle trees (binary trees) that functions as an accumulator. The accumulator implementation ideally has the following signature (Python syntax):\\n\\nProof = List[Hash]   # type synonym to improve readability\\n\\nverify_existence(p: Proof) -> bool   # was the hash associated with the proof previously added to the forest and not deleted?\\n\\nadd(to_add: Hash) -> Proof   # mutably add given hash to the forest\\, returns a proof of its existence (a path down the forest)\\n\\nremove(proof: Proof) -> None   # mutably remove the hash associated with the proof\\, such that 'verify_existence' will return false in the future until re-added.\\n\\nYou can see that a set would also serve as an accumulator. The advantage of Utreexo however\\, is\\, that it only needs logarithmic storage.\\n\\nThe first half of the talk will explain the algorithms\\, and the second half will talk about porting the Go implementation to Haskell\\, in search of 'elegance'.\\n\\nUtreexo was invented for use in Bitcoin\\, I may talk about its application there.\\n\\nThe paper is at https://eprint.iacr.org/2019/611.pdf",
           "location": "Speakers Tent"
@@ -98,7 +89,7 @@
           "summary": "Living a life with a service dog.",
           "dtstart": "20200812T150000Z",
           "dtend": "20200812T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972444-0025-3641-3dac-542f3a44e698",
           "description": "What is a service dog? What kinds are there? What do they do? What are they for? And a bit of the story of my service dog and me.",
           "location": "Speakers Tent"
@@ -107,7 +98,7 @@
           "summary": "Hacker Jeopardy (Round #1)",
           "dtstart": "20200812T180000Z",
           "dtend": "20200812T200000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972552-0025-3682-a2da-6c5660641d19",
           "description": "Four teams of up to 3 persons compete in a game of classical jeopardy.\\n\\nSubmit your teams to info@bornhack.dk with your team name.",
           "location": "Speakers Tent"
@@ -116,7 +107,7 @@
           "summary": "Qubes User Meetup\\, meet\\, greet\\, workshop\\, tips and tricks",
           "dtstart": "20200812T200000Z",
           "dtend": "20200812T220000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972624-0027-345c-e918-8ef065947ac9",
           "description": "We will meetup\\, talk about Qubes OS https://www.qubes-os.org/\\n\\nWe are a group which have moved to using Qubes OS as our primary or private laptops\\, and we have some experiences to share. Maybe we will even have a presentation. If you would like to present contact hlk@kramse.org\\n\\nThis is not an installfest\\, but what comes after\\, like: How to change Disposable VM settings\\, how to add another template for Kali Linux etc.\\n\\nWe will do an informal meetup\\, may break out into groups\\, or just hang around and talk about Qubes.",
           "location": "Bar Meetup Area"
@@ -125,43 +116,43 @@
           "summary": "Niseq: 'Cinma pur' revived",
           "dtstart": "20200812T220000Z",
           "dtend": "20200812T230000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15972696-0025-3488-edfd-a769d7448b59",
           "description": "A \"silent cinema\" live visual art performance. Niseq is an instrument made for making abstract art based on video or image source material. Instrument\\, in the sense of a no-delay feedback-loop between the artists input\\, and the influence of the output. The expression attainable has more in common with experimental electronic music than with the cinema of today - especially there is a relation to granular synthesis.",
           "location": "Speakers Tent"
         },
         {
-          "summary": "Boardgames for change (activist style approch)",
-          "dtstart": "20200813T090000Z",
-          "dtend": "20200813T120000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15973092-0026-323b-c9a9-195598c4ac8a",
-          "description": "What if we say that Team-meetings\\, Zoom(evil)seminars and listening to somebody really smart often is quite boring?\\n\\nWhy dont we use more of the knowledge which exists among the partipants?\\n\\nWell.. hello Boardgaming for Change.",
-          "location": "Workshop Room"
-        },
-        {
           "summary": "Lunch Break",
           "dtstart": "20200813T100000Z",
           "dtend": "20200813T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973128-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
         },
         {
-          "summary": "What the modem?! How to haunt millions of internet connections",
+          "summary": "COVID-19 and the (digital) Future of Work in Job Placement?",
           "dtstart": "20200813T110000Z",
           "dtend": "20200813T120000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15973164-0025-362f-184a-494f687426b8",
-          "description": "This is the story of Cable Haunt and how we discovered vulnerabilities in 100 of million of modems world wide.\\nThe exploit we will present\\, allows a remote attacker to gain kernel level control of Broadcom based cable modems\\, effectively taking full control of big parts of the western world internet connections. Once control has been achieved by an attacker\\, it can be abused in many ways. Some examples are:\\n - Conduct remote man-in-the-middle attacks\\n - Hot-swap code or even the entire firmware silently and persistent\\n - Disable ISP firmware upgrade\\n - Change default DNS server for phising\\n - Change serial numbers\\n - Be exploited in botnet\\nThis will a talk about the technical aspects of Cable Haunt\\, how it was discovered and how to exploit it using techniques such as buffer overflows and return oriented programming.\\nThere will of cause also be a live demo and if you want you can also visit us and hack a modem yourself.",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973164-0025-388d-71e3-43aec354c9bb",
+          "description": "COVID-19 has increased unemployment and the rising unemployment is a challenge for societies across the world.  It increases the need for effective job placement efforts\\, but during the lockdown in Denmark\\, physical presence was prohibited and the job centers became digital. Right now\\, there is speculation that responses to COVID-19 will hasten the emergence of the future of work throughout the pandemic. Increased digitization is seen as part of this future by the municipalities\\, responsible for job placement in Denmark. But what are the learnings from work in the digital job center? What can we gain and loose? And what are the consequences of digital public services for potential marginalized groups as job seekers? \\n\\nThese are some of the questions I will address in the talk. Based on weekly interviews with 6 job consultants across 3 Danish job centers from April-June\\, I will present some of the experiences from work in the digital jobcenter. Please join me for a discussion on digital welfare.",
           "location": "Speakers Tent"
+        },
+        {
+          "summary": "BornHack CTF 2020",
+          "dtstart": "20200813T110000Z",
+          "dtend": "20200813T220000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973164-0032-336b-8ddc-ef85f454178a",
+          "description": "BornHack CTF is BACK\\, so prepare your Linux\\, python 2.7 and pwntools\\, it's time to hack  the planet  Fyn*\\n\\nLINK TO THE CTF: http://161.35.67.9/\\n\\n\\nThis CTF is of the Jeopardy style\\, and consists of multiple categories\\, including Web\\, Reverse-engineering\\, Pwn\\, Misc\\, and Crypto.\\nAre you new or experienced\\, this CTF is sure to have challenges for you. The start and end date for this on-site CTF is not yet public.\\n\\nIf you get stuck with challenges\\, need some beginner help\\, or just need a good place to sit while hacking\\, then stop by the PWNIES VILLAGE.",
+          "location": "Online"
         },
         {
           "summary": "Made in Denmark",
           "dtstart": "20200813T120000Z",
           "dtend": "20200813T130000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973200-0025-328a-229a-44bfe2f4b2ba",
           "description": "A talk about computers made in Denmark\\, we start back in the 60's and keep on going up until the lates 90's\\, which means that we will talk about Regnecentralen\\, ICL / HH Electronics\\, DDE and Christian Rovsing - but also lesser known brands such as the Vega\\, the Butler and the James computers.",
           "location": "Speakers Tent"
@@ -170,7 +161,7 @@
           "summary": "Home and Hackspace automation with mqtt and mosquitto - an introduction",
           "dtstart": "20200813T120000Z",
           "dtend": "20200813T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973200-0026-3636-3a97-902f45f465d8",
           "description": "There will be a general introduction into the MQTT Protocol\\, after we'll setup a local mqtt broker (mosquitto) for a \"hello world\". After that we'll learn how to control tasmota devices via cli. If that is up and running we will have a look into Eclipse paho JS library* for mqtt to get a very basic website running to display and control mqtt devices by a webinterface served by mosquitto. In the end we'll have a look on the actual (extensive...) usage of that system in the german hackerspace in Freiburg (CCCFr).\\nPlease bring a device where you can install mosquitto (https://mosquitto.org/download/).\\n\\n*no other libraries or any packagemanager nor node.js or similar will be involved\\, just some plain vanilla js. I swear :)",
           "location": "Workshop Room"
@@ -179,7 +170,7 @@
           "summary": "Lightning Talks",
           "dtstart": "20200813T130000Z",
           "dtend": "20200813T131000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973236-0025-332b-8084-7dfd4bc4adaa",
           "description": "Placeholder event for Lightning Talks.",
           "location": "Speakers Tent"
@@ -188,7 +179,7 @@
           "summary": "DMARC",
           "dtstart": "20200813T131000Z",
           "dtend": "20200813T132000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973242-0025-3595-b3e6-dda043a4b86a",
           "description": "Quick walkthrough of how to do better email security.",
           "location": "Speakers Tent"
@@ -197,17 +188,26 @@
           "summary": "Let's try out GitHub Classroom!",
           "dtstart": "20200813T132000Z",
           "dtend": "20200813T133000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973248-0025-343f-ae17-874c00644b59",
           "description": "Disclaimer: Yes\\, I drank the GitHub Koolaid. After spending 18 months as an active mentor/maintainer on several of Exercism.io's tracks\\, I stopped participating as part of a job switch. With me is an experience report of what worked for me with this platform\\, a claim that a platform with better git (or other vcs) integration would prepare people better for real-world programming\\, and a call-to-action to try out GitHub's Classroom. A goal could be the formation of a learning collective\\, or simply a status report.",
           "location": "Speakers Tent"
         },
         {
-          "summary": "Crash Course China",
+          "summary": "DefCon CTF 2020 finals",
           "dtstart": "20200813T133000Z",
           "dtend": "20200813T134000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15973254-0025-382d-17c0-195ee0f4a258",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973254-0025-390f-e03b-ff4ab2542729",
+          "description": "Just before Bornhack the DefCon CTF 2020 finals were held. Here Norsecode\\, a combined Scandinavian team\\, participated. Since the CTF was online this year\\, Norsecode created a state-sponsored venue in Stockholm where the team could meet and hack together to create the DefCon-feel.\\nIt was the first time Norsecode participated and we learned a lot about how A&D CTFs against the best in the world work. You will learn about our experience at the venue and the lessons we learned.",
+          "location": "Speakers Tent"
+        },
+        {
+          "summary": "Crash Course China",
+          "dtstart": "20200813T134000Z",
+          "dtend": "20200813T135000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973260-0025-382d-17c0-195ee0f4a258",
           "description": "An in-depth talk about the Great Firewall of China and how it works on a technical level.",
           "location": "Speakers Tent"
         },
@@ -215,7 +215,7 @@
           "summary": "Introduction to DBI ... or how to tamper with any app (including SmitteStop)",
           "dtstart": "20200813T140000Z",
           "dtend": "20200813T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973272-0025-3659-b003-57164cd4a24a",
           "description": "Introduction to DBI ... or how to tamper with any app (including SmitteStop [0])\\n\\nDynamic Binary Instrumentation (DBI) is a powerful method to change the behavior of apps (or rather: any binary code) at runtime.\\n\\nI will go through using the toolkit \"frida\" [1] to inject custom logic into Java bytecode easily\\, but also show that we can hook into native apps\\, like \"SmitteStop\"\\, to unlock the secret menus\\, easter eggs\\, etc.\\n\\nAfter this talk the following sentence will make sense: \"I just used a Python tool to inject JavaScript into my Android/Java app\\, to change the behavior of the mono runtime\".\\n\\n[0] https://play.google.com/store/apps/details?id=com.netcompany.smittestop_exposure_notification\\n[1] https://frida.re/",
           "location": "Speakers Tent"
@@ -224,7 +224,7 @@
           "summary": "How lockdown crushed the online barrier",
           "dtstart": "20200813T150000Z",
           "dtend": "20200813T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973308-0025-3359-24a0-c3cb5974ca4b",
           "description": "When Denmark locked down\\, a lot of small entrepreneurs got stuck with courses and workshops being cancelled. Thankfully many of these entrepreneurs decided to look for alternatives to their cancelled physical events. \\n\\nGoing online was the obvious choice!\\n\\nIn this talk I'm going to present how I watched (and helped) both obvious online prospects like coaches and instructors on leadership courses and other usual \"office events\" take their business online. But also how less likely prospects like acupuncturists\\, dog physiotherapists\\, riding and yoga instructors successfully moved physical classes online.\\n\\nDue to lockdown BOTH the entrepreneurs AND their customers was highly motivated to give online teaching a go\\, and I believe we have thus fast forwarded the general willingness to try an online course by several years if not decades.\\n\\nI'm going to present my thoughts on how this will effect the online market going forward\\, and what you should consider\\, when taking your business or part of it online.",
           "location": "Speakers Tent"
@@ -233,16 +233,25 @@
           "summary": "Privacy 2020: What's happening and what can we do?",
           "dtstart": "20200813T160000Z",
           "dtend": "20200813T170000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973344-0025-3819-7c23-53836284785b",
           "description": "Spokesperson for the Organisation against Illegal Data Retention (Foreningen imod Ulovlig Logning) Rasmus Malver gives an update on the lawsuit\\, new legislation\\, facial recognition and the temperature of the Danish parliament and the EU legislators.",
+          "location": "Speakers Tent"
+        },
+        {
+          "summary": "What the modem?! How to haunt millions of internet connections",
+          "dtstart": "20200813T170000Z",
+          "dtend": "20200813T180000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973380-0025-362f-184a-494f687426b8",
+          "description": "This is the story of Cable Haunt and how we discovered vulnerabilities in 100 of million of modems world wide.\\nThe exploit we will present\\, allows a remote attacker to gain kernel level control of Broadcom based cable modems\\, effectively taking full control of big parts of the western world internet connections. Once control has been achieved by an attacker\\, it can be abused in many ways. Some examples are:\\n - Conduct remote man-in-the-middle attacks\\n - Hot-swap code or even the entire firmware silently and persistent\\n - Disable ISP firmware upgrade\\n - Change default DNS server for phising\\n - Change serial numbers\\n - Be exploited in botnet\\nThis will a talk about the technical aspects of Cable Haunt\\, how it was discovered and how to exploit it using techniques such as buffer overflows and return oriented programming.\\nThere will of cause also be a live demo and if you want you can also visit us and hack a modem yourself.",
           "location": "Speakers Tent"
         },
         {
           "summary": "Matrix User Meetup",
           "dtstart": "20200813T200000Z",
           "dtend": "20200813T220000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973488-0027-3832-3529-d0b7863469db",
           "description": "For anyone interested in https://matrix.org/: An open network for secure\\, decentralized communication.\\n\\nWe are a few people who moved to matrix as a primary communications platform. This is an informal meetup where everyone is welcome to come hang out and we mostly talk about matrix :-)\\n\\nLot's of things are happening e.g. the rebranding\\, new e2ee ux and wider adoption",
           "location": "Bar Meetup Area"
@@ -251,7 +260,7 @@
           "summary": "Night Disco",
           "dtstart": "20200813T220000Z",
           "dtend": "20200813T230000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973560-0028-344b-6a41-4efe9904793a",
           "description": "We all love music\\, but the love must be shared!\\n\\nA few hours of funky stuff by Kramse mixed with some reggae.\\n\\nFrom pop to funk!",
           "location": "Bar Area"
@@ -260,7 +269,7 @@
           "summary": "Solving jq Problems",
           "dtstart": "20200814T090000Z",
           "dtend": "20200814T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973956-0026-3571-e782-6a277f14abf9",
           "description": "You may know jq\\, the swiss army knife of all your command-line JSON processing needs.\\n\\nYou may not know that jq is a Turing-complete combinator language that lets you define custom filters using either imperative or functional control structures.\\n\\nMaybe that time when you piped a bunch of commands together and jq was one of them\\, you could have spared a few of the others?\\n\\nThe format of this workshop:\\n - We decide together upon some useful or fun JSON processing problems where jq might save us.\\n - Being an idiot when it comes to writing jq\\, I will be the code monkey accepting right and wrong input.\\n - Workshop participants may experiment freely on their own computers and submit solutions by yelling or posting.\\n\\nFor inspiration\\, see the Exercism jq Cookbook: https://github.com/exercism/exercism/issues/5055\\n\\nTo play with jq without having to install it\\, go to: https://jqplay.org/",
           "location": "Workshop Room"
@@ -269,7 +278,7 @@
           "summary": "Lunch Break",
           "dtstart": "20200814T100000Z",
           "dtend": "20200814T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973992-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
@@ -278,25 +287,43 @@
           "summary": "Roadtrip to UCL fablab",
           "dtstart": "20200814T100000Z",
           "dtend": "20200814T140000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15973992-0030-3741-1c50-1d21bcb47248",
           "description": "Like last year\\, we have arranged for the Bornhack participants to go to the fablab at UCL.\\n\\nAt fablab they have lasercutters\\, 3D printers\\, sticker machine and so on. \\nDue to IT issues\\, they don't have an official info page at the moment - but they do have a facebooke page: https://www.facebook.com/FabLabUCL\\n\\n\\nWe will meet up at the info booth at 12.00 and go by car to the location i Odense.",
           "location": "Info Desk"
         },
         {
+          "summary": "Massage Friday",
+          "dtstart": "20200814T100000Z",
+          "dtend": "20200814T180000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15973992-0031-3861-96df-fc8a98548719",
+          "description": "A local masseuse will stop by a couple of times during BornHack to massage our aching bodies and make sure were in tip-top shape for hacking.\\n\\nThe massage is a so-called sports massage that is meant to stimulate your muscles and helps to increase blood flow and release tension.\\n\\nYou can book your massage slot at the info desk\\, and you will need to purchase a massage ticket from the shop and ensure that its paid for beforehand. If you pay by other means than cash or credit card\\, please bring some form of proof of payment to your massage.\\n\\nThe massage will take place in the main building (where the workshop rooms are). Please wait outside until you are called in.\\n\\nYou need to bring your own towel to lay on\\, and please have a quick shower before turning up.",
+          "location": "Massage Room"
+        },
+        {
           "summary": "Networking at Roskilde Festival",
           "dtstart": "20200814T110000Z",
           "dtend": "20200814T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974028-0025-354b-3f2b-f4d4d314ffd8",
           "description": "In this talk I will be going over the networking infrastructure that runs Roskilde Festival. There will be pictures\\, diagrams\\, stories from the trenches and things to consider if you plan on doing something similar.\\n\\nI will be touching on these topics:\\n-Who are we and what do we do?\\n-Infrastructure and hardware overview.\\n-Servers and services.\\n-Configuration and unit rollout.\\n-Outdoor versus indoor unit placement.\\n-Permanent versus temporary cabling.\\n-Cables versus radio connections.\\n-Unlikely and likely events\\, how to plan for them and how how to handle them.\\n-Critical paths in rollout and how to mitigate them.",
           "location": "Speakers Tent"
         },
         {
+          "summary": "BornHack CTF 2020",
+          "dtstart": "20200814T110000Z",
+          "dtend": "20200814T220000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15974028-0032-336b-8ddc-ef85f454178a",
+          "description": "BornHack CTF is BACK\\, so prepare your Linux\\, python 2.7 and pwntools\\, it's time to hack  the planet  Fyn*\\n\\nLINK TO THE CTF: http://161.35.67.9/\\n\\n\\nThis CTF is of the Jeopardy style\\, and consists of multiple categories\\, including Web\\, Reverse-engineering\\, Pwn\\, Misc\\, and Crypto.\\nAre you new or experienced\\, this CTF is sure to have challenges for you. The start and end date for this on-site CTF is not yet public.\\n\\nIf you get stuck with challenges\\, need some beginner help\\, or just need a good place to sit while hacking\\, then stop by the PWNIES VILLAGE.",
+          "location": "Online"
+        },
+        {
           "summary": "ALPR in Denmark",
           "dtstart": "20200814T120000Z",
           "dtend": "20200814T130000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974064-0025-3795-0d7f-79cd63946519",
           "description": "Deep-dive into the ALPR technology being deployed in Denmark\\, it's operators and a closer look at a community eBay purchase of a Genetec Sharp camera.",
           "location": "Speakers Tent"
@@ -305,7 +332,7 @@
           "summary": "DIY Magic Gemstone",
           "dtstart": "20200814T120000Z",
           "dtend": "20200814T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974064-0026-3408-4312-a559d204960a",
           "description": "In this workshop we'll be making a necklace with a magic gemstone as a pendant. It has an LED and a hidden battery. Light up your life and be the sparkling center of any party!\\n\\nWe'll be working with epoxy resin to cast the gemstone\\, and the LED can be static\\, flickering or even RGB (rainbow). If you have an interesting LED you want to use\\, please bring it! \\n\\nNo soldering experience is required. Anyone 14+ of age can join. If you're a little younger than that\\, you are welcome too but please bring a parent to help you. \\nThere is a maximum of 12 participants and there is a 5 (37DKK) fee for materials.",
           "location": "Workshop Room"
@@ -314,7 +341,7 @@
           "summary": "How blockchain programming looks like today",
           "dtstart": "20200814T130000Z",
           "dtend": "20200814T140000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974100-0025-3418-368b-713bb8344b3a",
           "description": "This talk provides an overview of how open-source blockchain contract programming looks like today. I show examples of several types of blockchain languages that each represent a part of the design space. I also go through some of the historical blockchain disasters that were caused by bad programming and discuss a) how to prevent them with stronger primitives\\, b) how to improve the ergonomics\\, and c) what is implied by general-purpose in the context of blockchain. You may like this talk if youre into compilers and programming language design.",
           "location": "Speakers Tent"
@@ -323,7 +350,7 @@
           "summary": "\"Open\" Banking  how open?",
           "dtstart": "20200814T140000Z",
           "dtend": "20200814T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974136-0025-3783-9b55-e731eea4f698",
           "description": "One of the last industries to be come \"open\" is banking. Tremendiously regulated\\, inheriantly risk adverse and seeking control of the customers. I will dive into how we contributed to making banking open. From unregulated\\, reverse-engineering of mobile banking apps  to the state of APIs that EU made the banks put into place\\, and what mess resulted from that.",
           "location": "Speakers Tent"
@@ -332,7 +359,7 @@
           "summary": "Datamuseum.dk: Lokaler sges",
           "dtstart": "20200814T150000Z",
           "dtend": "20200814T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974172-0025-375a-1a84-0f080b342a0b",
           "description": "Datamuseum.dk flytte\\, en orientering om museet\\, samlingen og projektet.",
           "location": "Speakers Tent"
@@ -341,7 +368,7 @@
           "summary": "Hacker Jeopardy (Round #2)",
           "dtstart": "20200814T180000Z",
           "dtend": "20200814T200000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974280-0025-3697-0603-3d9549e4a44a",
           "description": "Four teams of up to 3 persons compete in a game of classical jeopardy.\\n\\nSubmit your teams to info@bornhack.dk with your team name.",
           "location": "Speakers Tent"
@@ -350,7 +377,7 @@
           "summary": "Tor Relay Operators Meetup",
           "dtstart": "20200814T200000Z",
           "dtend": "20200814T220000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974352-0027-3296-f0c2-534b13545ae9",
           "description": "For people who are currently running or are considering to run Tor relay nodes. Let's meet and share experiences\\, say hi to each other\\, and have an open discussion about topics related to Tor relay operations.\\n\\nWill most likely take place in some corner of the bar.",
           "location": "Bar Meetup Area"
@@ -359,7 +386,7 @@
           "summary": "Expect nothing\\, expect everything",
           "dtstart": "20200814T220000Z",
           "dtend": "20200814T230000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974424-0028-3490-76cb-f293a7e42dc8",
           "description": "They insisted I signed up for a spot.\\nAs a musical whore we'll go from 80's \\, 90's\\, 2k\\, metal \\, house\\, jungle\\, dubstep and back.\\nOne thing is for certain\\, a party it will be.",
           "location": "Bar Area"
@@ -368,7 +395,7 @@
           "summary": "Simulating DDoS packets",
           "dtstart": "20200815T090000Z",
           "dtend": "20200815T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974820-0026-3460-d90d-ebc1ce847bc8",
           "description": "Repeated from last years network fun\\, but will install Kubernetes on the server we attack.\\n\\nA small workshop teaching people how to produce DDoS simulation traffic - usefull for testing their own infrastructures. \\n\\nWe will have a server connected on 10Gbit on a switch with multiple 1Gbit port for attackers. Attackers will be connected through 1Gbit ports using USB Ethernet - we have loaners.\\n\\nWork together to produce enough to take down this server!\\n\\nWHILE attack is ongoing there will be both the possibility to monitor traffic\\, monitor port\\, and decide on changes to prevent the attacks from working.\\n\\nWe will work through common attack types\\, like:\\n\\n* TCP SYN flooding\\n* TCP other flooding\\n* UDP flooding NTP\\, etc.\\n* ICMP flooding\\nMisc - stranger attacks and illegal combinations of flags etc.\\nthen we will implement the changes suggested and retry attacks.\\n\\nYou will go away from this with tools for producing packets\\, hping3 and some configurations for protecting - PF rules\\, switch rules\\, server firewall rules.",
           "location": "Workshop Room"
@@ -377,34 +404,43 @@
           "summary": "Lunch Break",
           "dtstart": "20200815T100000Z",
           "dtend": "20200815T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974856-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
         },
         {
-          "summary": "Introduction to Art Workshop (placeholder)",
+          "summary": "Introduction to Mind Future Workshop",
           "dtstart": "20200815T110000Z",
           "dtend": "20200815T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974892-0025-3777-35a0-22fcb8d48e39",
-          "description": "This is a placeholder event. More updates later.",
+          "description": "This talk is about how tech-art and developers play a crucial role in\\ncreating societal debate about the ethical and human dilemmas related to\\nAI/ML. Cecilie will touch upon her GPT-2 based artwork Covid-19 AI battle\\nand the new 18th Sustainable Development Goal Life with Artificials.",
           "location": "Speakers Tent"
         },
         {
-          "summary": "Art Workshop (placeholder)",
+          "summary": "Mind Future Workshop",
           "dtstart": "20200815T120000Z",
           "dtend": "20200815T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15974928-0026-3763-7caf-deba8e64730b",
-          "description": "This is a placeholder event. More updates later.",
+          "description": "Collaborative Artworks From Packet Captures. Most of us\\nat BornHack have solid internal representations of abstract and\\ndifficult-to-understand concepts that are not shared with the general\\npublic\\, like network protocols and their behavior in computer networks. This\\nworkshop will explore how we can express these complex ideas\\, by coding\\ndynamic visualizations together.As a participant\\, you will be assigned a\\nbranch in a git repo\\, which will be your canvas. Each repo will be equipped\\nwith p5.js\\, and a neatly parsed (and deeply interesting) packet capture\\nthat you can use as input for your display.For a fixed time-span\\, you will\\nhave free reign to code whichever dynamic visualizations you want\\, based on\\nyour given packet capture. However\\, at various points throughout the\\nworkshop\\, you will be forced to hand off your branch to another\\nparticipant\\, and continue work on someone elses branch\\, establishing a\\nring of collaboration within the group. Rather than making a series of\\ntextbook-style diagrams and explanations\\, the workshop will end with the\\ncreation of chaotic artistic expressions that explore the collectives\\nunderstanding of these deeply technical and otherwise invisible concepts.",
           "location": "Workshop Room"
+        },
+        {
+          "summary": "Avoid STARTTLS",
+          "dtstart": "20200815T140000Z",
+          "dtend": "20200815T150000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15975000-0025-3581-c350-88133994ebba",
+          "description": "Many protocols\\, including the email protocols SMTP\\, POP3 and IMAP\\, allow two ways to use TLS: An implicit mode on a dedicated port and a mechanism called STARTTLS that upgrades plain text connections to TLS.\\n\\nThe STARTTLS mechanism is incredibly fragile and almost by default leads to vulnerable implementations. In 2011 Wietse Venema discovered a flaw in Postfix that allowed a man in the middle attacker to inject commands into an encrypted connection [1].\\n\\nWe discovered that the flaw is still widely present in E-Mail servers and also\\, previously unknown\\, the same flaw exists in many mail clients. In some cases these flaws allow stealing E-Mail credentials. Furthermore the STARTTLS mechanism is weakly specified and in part contradictory\\, which allows other attacks.\\n\\nThe talk will give an overview on why STARTTLS is dangerous and should be avoided.",
+          "location": "Speakers Tent"
         },
         {
           "summary": "IT security education in Denmark",
           "dtstart": "20200815T150000Z",
           "dtend": "20200815T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975036-0025-3422-a4da-32f7e7240579",
           "description": "A small overview with regards to my opinion on getting educated in IT-security in Denmark.\\n\\nI will talk about my philosophy\\, which basically is\\, get good at some IT and then you will be better suited at hacking it afterwards.\\n\\nThen getting trained and educated in IT-security in Denmark is surprisingly hard. Not a lot of tracks\\, and some have hard requirements\\, like Master in IT-security from Univ of Aalborg. Others are more targeted at people already in IT which are trying a shift into IT-security. \\n\\nI will try to list the ones I know\\, and how to get started.\\n\\nPS I teach Diploma in IT-Security at KEA\\, so I have some bias\\, and now you know. \\n\\nPPS you are welcome to check out the lecture plans for the courses I teach https://zencurity.gitbook.io/kea-it-sikkerhed/ which I think are a good foundation.",
           "location": "Speakers Tent"
@@ -413,7 +449,7 @@
           "summary": "Activism for beginners",
           "dtstart": "20200815T150000Z",
           "dtend": "20200815T180000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975036-0026-3800-bf98-0e6867a48dcb",
           "description": "The only way to change the world is to do it. Stop making excuses and begin your life as an activist. This workshop introduces the participants to the fundamental tools of a modern activist. In 60 minutes we choose a topic\\, brainstorm and build an entire campaign.",
           "location": "Workshop Room"
@@ -422,7 +458,7 @@
           "summary": "Hacking on PKF files",
           "dtstart": "20200815T160000Z",
           "dtend": "20200815T170000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975072-0025-327f-1904-beb5d744b66b",
           "description": "Most of you probably have never heard of PFK files right and I think it's only fair to say that most of the people who have played the old-school PC games that use them\\, have neither.\\n\\nPFK files are data containers for the PCx (PC Ftbol and PC Basket) games developed by Dynamics Multimedia\\, a company that emerged from the extinct Dynamic Software\\, which was known for their 8/16 bits games developed on: Sinclair ZX81\\, ZX Spectrum\\, Amstrad CPC\\, MSX\\, Commodore 64 and later on: Arcade machines and PCs\\, such as: \"Game over\"\\, \"Hammer Boy\"\\, \"Mega Phoenix\" and \"Risky Woods\" among others.\\n\\nDynamic Software was mainly driven by the three developers\\, the Ruiz Tejedor brothers: Pablo\\, Vctor and Nacho. When they created Dynamics Multimedia\\, their fourth brother Gaby joined. Gaby was a football enthusiast and the four\\, together with Carlos Abril and Pedro Sudn\\, were able to create the most successful PC gaming series of all time in Spain's history: PC Ftbol\\, with more than 1.560.000 magazines (*) sold. This success was not only limited to Spain\\, as the game was exported to Italy (PC Calcio)\\, Argentina (PC Apertura/Clausura) and UK (PC Premier/Premier Manager 97 and 99).\\n\\nTwo years ago\\, it was the 25th anniversary of the first edition of the PC Ftbol game and thanks to Wine I was able to install it on my *nix box. I learned that there existed a Community that tried to keep the game up-to-date with the newest players and teams +25 years later. I also noticed that it takes a lot of effort from the Community to do this\\, as it's mostly a manual process when editing data in (encoded) binary format. Users have stated on PCFutbolMania.com that it takes about a day to update a team. Since the games have around +480 teams\\, this can be a tedious and time consuming process.\\n\\nIn this talk I will showcase how i have been able to create some tools that will ease data updates of these awesome games in an almost no time and letting the computer do all the work.\\n\\n(*) - Come by and learn why I state magazines and not units or copies of the game.",
           "location": "Speakers Tent"
@@ -431,16 +467,25 @@
           "summary": "Money Talks  - why cash is the last free straw to cling to or the story about why politicians\\, banks and bankers wants to take them away from you",
           "dtstart": "20200815T180000Z",
           "dtend": "20200815T190000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975144-0025-3602-09a1-80f1b504626b",
           "description": "Once cash was king - now everybody seems to try to make concrete money history\\, claiming(wrongfully) that cash i 'dirty' and spread covid19\\, forgetting that virus actually trives on surfaces of mobile phones\\, credit cards and metal - but not on paper. Cash is also seen as old fashioned and troublesome\\, but we all seem to forget what kind of trouble we might be in\\, should we totally abandon physichal money. \\nThe talk is about freedom\\, surveallance and control in a time of profiling and virtuallity.",
+          "location": "Speakers Tent"
+        },
+        {
+          "summary": "Bornhack CTF Winner announcement",
+          "dtstart": "20200815T190000Z",
+          "dtend": "20200815T191000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15975180-0025-3891-0e45-70eba874c3ca",
+          "description": "Pwnies will announce the Bornhack CTF <link coming soon> winner\\, and hand over the exclusive Bornhack CTF 2020 award.\\n\\nLINK TO THE CTF: http://161.35.67.9/\\n\\n\\n(Remember\\, this CTF is NOT a team-based CTF\\, but and INDIVIDUAL CTF challenge\\, and as such\\, there can only be 1 winner.)",
           "location": "Speakers Tent"
         },
         {
           "summary": "UncensoredDNS Users Meetup",
           "dtstart": "20200815T200000Z",
           "dtend": "20200815T220000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975216-0027-3371-8f79-f109ccc40e7a",
           "description": "The traditional yearly UncensoredDNS users meetup! Let's get together in a casual setting (the bar) and share a drink and a story from the trenches of the DNS.\\n\\nThe host will share stories about the journey towards DNS-over-HTTPs support and OCSP woes\\, monitoring with prometheus and much more. Please share your own stories and experiences too!\\n\\nThe duration is set to two hours but feel free to stick around longer if you feel like it :)",
           "location": "Bar Meetup Area"
@@ -449,16 +494,25 @@
           "summary": "Daydreaming with Akrobika",
           "dtstart": "20200815T220000Z",
           "dtend": "20200815T230000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975288-0028-3701-602a-3657c0a42619",
           "description": "Ambient experiments with field recordings\\, lucid dreams and stolen pieces of priceless art - layered in loops\\, humming drones and volatile beats.",
           "location": "Bar Area"
         },
         {
+          "summary": "Massage Sunday",
+          "dtstart": "20200816T080000Z",
+          "dtend": "20200816T180000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15975648-0031-387b-2e75-f13fede4827b",
+          "description": "A local masseuse will stop by a couple of times during BornHack to massage our aching bodies and make sure were in tip-top shape for hacking.\\n\\nThe massage is a so-called sports massage that is meant to stimulate your muscles and helps to increase blood flow and release tension.\\n\\nYou can book your massage slot at the info desk\\, and you will need to purchase a massage ticket from the shop and ensure that its paid for beforehand. If you pay by other means than cash or credit card\\, please bring some form of proof of payment to your massage.\\n\\nThe massage will take place in the main building (where the workshop rooms are). Please wait outside until you are called in.\\n\\nYou need to bring your own towel to lay on\\, and please have a quick shower before turning up.",
+          "location": "Massage Room"
+        },
+        {
           "summary": "Pentest introduction - greatest hits",
           "dtstart": "20200816T090000Z",
           "dtend": "20200816T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975684-0026-3475-79be-9c0c76a45a09",
           "description": "We will go through the greatest hits from https://github.com/kramse/security-courses/tree/master/presentations/pentest\\n\\nSo expect to learn \\n* What is penetration testing\\n* Nmap how to get started\\, and a small test plan\\, how to scan a network using Nmap\\n* Get started blasting packets\\, from single packets with Nping and Scapy \\n* Trying wi-fi scan\\, I have some loaner USB cards\\n* Doing SNMP scanning\\, trying small brute-force using THC Hydra \\n* Get started with VXLAN hacking\\, THC IPv6 attacks etc.\\n* Get started with Metasploit using Metasploit Unleashed\\n\\nGoal is to point you towards resources\\, so you can get started with the fun of scanning networks\\, finding vulnerabilities - so you can remove them\\, reconfigure networks etc.\\n\\nYou should install a Kali Linux as virtual machine\\, perhaps use this as inspiration: \\nhttps://github.com/kramse/kramse-labs - the part about installing a Kali Linux\\n\\nYou can leave early\\, but it will be hard to join late\\, so be there from the start and leave when you like\\, please :-D",
           "location": "Workshop Room"
@@ -467,34 +521,25 @@
           "summary": "Lunch Break",
           "dtstart": "20200816T100000Z",
           "dtend": "20200816T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975720-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
         },
         {
           "summary": "Galieo signals potential impact on 23 cm radio amateur signal usage",
-          "dtstart": "20200816T110000Z",
-          "dtend": "20200816T120000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15975756-0025-3537-bd17-1af4e6f41cfb",
-          "description": "The EU-paid Galieo satellite naviation constellation provides anyone around the world with E1 signals to amend GPS signals on the same frequency.\\nJust like GPS\\, Galieo has the potential for anyone to determine their own position\\, time and velocity\\, without having to reveal their own location or even identity.\\nNext to 99% of the E1/L1 GPS/GNSS users\\, there are also E5a\\, E5b and E6 signals available\\, that can be used for argicultural precision farming and construction.\\n\\nDenmark played an important role in it's development. \\nAs a dutch citizen\\, and fellow 'European' I would like to highlight some technical aspects of the technology that complements GPS\\, and also talk about some perhaps negative impacts it can have on the usage of the 23 cm band used by Ham Radio operators in the european region.\\nAspects of signal processing that comes with all GNSS technologies that are used by GPS\\, Beidou\\, Glonass and Galieo will be explained.",
-          "location": "Speakers Tent"
-        },
-        {
-          "summary": "Avoid STARTTLS",
           "dtstart": "20200816T120000Z",
           "dtend": "20200816T130000Z",
-          "dtstamp": "20200810T064033Z",
-          "uid": "15975792-0025-3581-c350-88133994ebba",
-          "description": "Many protocols\\, including the email protocols SMTP\\, POP3 and IMAP\\, allow two ways to use TLS: An implicit mode on a dedicated port and a mechanism called STARTTLS that upgrades plain text connections to TLS.\\n\\nThe STARTTLS mechanism is incredibly fragile and almost by default leads to vulnerable implementations. In 2011 Wietse Venema discovered a flaw in Postfix that allowed a man in the middle attacker to inject commands into an encrypted connection [1].\\n\\nWe discovered that the flaw is still widely present in E-Mail servers and also\\, previously unknown\\, the same flaw exists in many mail clients. In some cases these flaws allow stealing E-Mail credentials. Furthermore the STARTTLS mechanism is weakly specified and in part contradictory\\, which allows other attacks.\\n\\nThe talk will give an overview on why STARTTLS is dangerous and should be avoided.",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15975792-0025-3537-bd17-1af4e6f41cfb",
+          "description": "The EU-paid Galieo satellite naviation constellation provides anyone around the world with E1 signals to amend GPS signals on the same frequency.\\nJust like GPS\\, Galieo has the potential for anyone to determine their own position\\, time and velocity\\, without having to reveal their own location or even identity.\\nNext to 99% of the E1/L1 GPS/GNSS users\\, there are also E5a\\, E5b and E6 signals available\\, that can be used for argicultural precision farming and construction.\\n\\nDenmark played an important role in it's development. \\nAs a dutch citizen\\, and fellow 'European' I would like to highlight some technical aspects of the technology that complements GPS\\, and also talk about some perhaps negative impacts it can have on the usage of the 23 cm band used by Ham Radio operators in the european region.\\nAspects of signal processing that comes with all GNSS technologies that are used by GPS\\, Beidou\\, Glonass and Galieo will be explained.",
           "location": "Speakers Tent"
         },
         {
           "summary": "Make your own Tinfoil Fedora",
           "dtstart": "20200816T120000Z",
           "dtend": "20200816T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975792-0026-351f-33da-1f84f34476db",
           "description": "This is a fun\\, easy-peasy\\, lighthearted workshop for pretty much all ages! We'll be making the ultimate in stylish\\, tech paranoia-inspired headwear: a tinfoil fedora. Well\\, strictly speaking it's a trilby\\, but fedora is such a nice word\\, don't you agree?\\n\\nThere is place for 11 participants because of the materials in stock. There is no fee for those who want to join us. It's on the house. *tips fedora*",
           "location": "Workshop Room"
@@ -503,7 +548,7 @@
           "summary": "\"Failed\" Projects: Just Move On",
           "dtstart": "20200816T130000Z",
           "dtend": "20200816T140000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975828-0025-321c-5afb-62e8b8543f18",
           "description": "Join me in this inspirational talk covering a wide array of unspectacular personal failures in the general area of hacking.\\n\\nThe conclusion of the talk is that you should just start on new projects even if you rarely finish current projects.  The contents of the talk is a barely connected list of projects I have initiated and not quite finished\\, along with arguments for why that's just fine.  Hopefully this is uncontroversial\\; indeed\\, I expect my general experiences to be shared by many attendees.\\n\\nWithout going into concrete spoilers\\, the failed projects include\\, but are not limited to:\\n\\n- A potentially revolutionary compression algorithm turned into a fun and otherwise useless graphics toy\\n- A 20 minute short satirical film about the 2014 EU Unified Patent Court membership referendum that was never fully edited or even shown\\, but took a long time to film\\n- A budding video game franchise whose first game was not received with the grandeur it deserved\\; and a sequel that never got past pre-production\\n- A state-of-the-art Prolog compiler that demonstrated how art is not always efficient\\n- Spending several years running Debian on a miniature laptop without ever finding _any_ use for it\\, mostly just demonstrating to friends and family that it could fit in my pocket\\n- Never quite proving the conjectured Turing completeness of my car-themed programming language\\n- A magical picture-to-sound synthesis approach that never *really* made sense\\n- A stack-based natural language whose vocabulary is still non-existent\\, but whose grammatical rules are very nice and totally usable\\, though untested\\n\\nI won't cover projects that never went beyond the idea stage\\, as they are too numerous.  I will briefly mention that I am capable of somewhat finalizing projects\\, and argue that the learnings from the unfinished projects probably aid me in that.\\n\\n**Note**: This presentation is just an excuse for me to talk about random things I spent time on in the past 10 years\\, so don't expect any huge insights (small insights might occur)!",
           "location": "Speakers Tent"
@@ -512,7 +557,7 @@
           "summary": "Bash tricks",
           "dtstart": "20200816T140000Z",
           "dtend": "20200816T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975864-0025-3222-cf4f-1c4d6ca4ef99",
           "description": "\"Just 45 minutes of one trick after another\\, with examples of situations where they can be useful.\"\\n\\nSome of us who have to interact with computers regularly find ourselves deep in hostile territory: the Bash shell.\\n\\nThe Bash manual is long and intimidating\\, and functionality is often overlooked by its users who get by with their respective bags of tricks accumulated haphazardly over the years.\\n\\nWe will go over various `Bash` and `readline` features\\, common and obscure\\, with a story-driven narrative trying to tackle scenarios that might be relevant to system administrators\\, programmers\\, and other command-line-curious individuals.",
           "location": "Speakers Tent"
@@ -521,7 +566,7 @@
           "summary": "Open Source\\, Open Projects",
           "dtstart": "20200816T150000Z",
           "dtend": "20200816T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975900-0025-3615-db8c-7d81eb949f78",
           "description": "What is free and open source? How do I pick a license? And when I've picked a license\\, how do I get contributions? Does it even make sense to go open?\\n\\nIn this talk we will discuss various licenses\\, license dependencies\\, as well as why being an open project goes beyond the source. We also discuss areas where openess hurts even an open project.",
           "location": "Speakers Tent"
@@ -530,7 +575,7 @@
           "summary": "Take control of your email deliverability - What SPF\\, DKIM and DMARC means for your mailing list",
           "dtstart": "20200816T160000Z",
           "dtend": "20200816T170000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15975936-0025-373d-12f4-f07a34540cfa",
           "description": "When sending bulk email like newsletters\\, webshop receipts or follow up emails\\, not only do you need to first get peoples permission to contact them then treat their data in compliance with GDPR and use a proper mass mail provider. \\nYou also need to get your sender domain properly verified and make sure the mails youre sending from various providers are actually aligned with your domain.\\nThis last step is something a lot of mail providers are oddly quiet about\\, usually because it takes a bit of tech skill to setup the required DNS records - in other cases because the systems themselves arent built with proper alignment in mind..\\nBut taking control of your settings is vital for your deliverability. If you dont have SPF and DKIM setup\\, mailsystems like gmail or hotmail will simply just not deliver a seemingly random amount of your emails\\, while at the same time return a delivered message Maybe even worse\\, if you dont setup your own DMARC record\\, you run the risk of someone else doing it for you\\, like UnoEuro/Simply did around easter\\, where a large amount of their customers suddenly got a DMARC record applied\\, with the quarantine policy enabled\\, ending huge masses of emails up in spam instead of in the recipients inboxes.\\n\\nIn this talk Im going to show you\\, what you need to set up and how its done\\, using a couple of different systems as examples. Ill show you a simple way to monitor your domain and your various mail providers. And finally Im going to give you a couple of real world cases of what happens when you dont have control over your settings.\\n\\nHaving worked with lots of customers solving deliverability issues over the last 4 years\\, Ive witnessed first hand how the demand for verification of bulk email senders have increased and how parts of the industry still seems to be lacking in the understanding of these mechanisms.",
           "location": "Speakers Tent"
@@ -539,16 +584,25 @@
           "summary": "Hacker Jeopardy (Finals)",
           "dtstart": "20200816T180000Z",
           "dtend": "20200816T200000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976008-0025-367a-da26-5ab8b50427db",
           "description": "The winner teams from the first round competes in one final battle of jeopardy.",
           "location": "Speakers Tent"
         },
         {
+          "summary": "Nix meetup",
+          "dtstart": "20200816T200000Z",
+          "dtend": "20200816T220000Z",
+          "dtstamp": "20200814T075215Z",
+          "uid": "15976080-0027-3916-89b4-293eee9409e8",
+          "description": "We'll meetup and talk about Nix: www.nixos.org\\n\\nWhatever you're a NixOS user\\, use the package manager Nix on another distribution or just feeling curious you're welcome to join.",
+          "location": "Bar Meetup Area"
+        },
+        {
           "summary": "Getting started with RISC-V",
           "dtstart": "20200817T090000Z",
           "dtend": "20200817T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976548-0026-3506-54dd-1a6e0e34e18b",
           "description": "RISC-V is an instruction set. That is a specification of the basic instructions a CPU can perform\\, eg. what your C-compiler emits. But unlike the ARM instruction set\\,used by your phone or tablet\\, or the x86 instruction set\\, used by your computer and server RISC-V is free and open. That is you're free to download the specification from riscv.org\\, build your own CPU and even share your work like many have already done. There is already upstream support many of the tools we take for granted: GCC\\, LLVM\\, Rust\\, Go\\, glibc\\, u-boot\\, coreboot\\, Linux\\, FreeBSD etc. but there is unfortunately not much real hardware available yet\\, so trying it out can feel like a challenge.\\n\\nAfter a basic introduction I plan to get everyone set up so we can program the GD32VF108 RISC-V microcontroller on the Longan Nano[1] board. One of the first pieces of hardware you can actually buy on a hobby budget. Hopefully we can find enough boards for everybody during the workshop and maybe even have a few to sell afterwards.\\n\\nNext I'll show how to run Fedora Rawhide or Debian Sid in Qemu on your computer\\, so you can follow or join the porting effort and even try out your own favourite piece of code on RISC-V. This requires a non-ancient Qemu\\, so please bring a recent Linux distro or do your own experiments on MacOS or maybe even Windows' WSL. If time permits we'll also build our own \"BIOS\" and Linux kernel for it. I'll also bring the HiFive Unleashed that I won.\\n\\n[1]: https://www.seeedstudio.com/Sipeed-Longan-Nano-RISC-V-GD32VF103CBT6-Development-Board-p-4205.html",
           "location": "Workshop Room"
@@ -557,7 +611,7 @@
           "summary": "Lunch Break",
           "dtstart": "20200817T100000Z",
           "dtend": "20200817T110000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976584-0029-366c-6ce0-91321334b369",
           "description": "Daily lunch break. Remember to drink water and keep some distance in the lines.",
           "location": "Food Area"
@@ -566,7 +620,7 @@
           "summary": "fine words butter no parsnips\\; a hacker's approach to company politics using game theory",
           "dtstart": "20200817T110000Z",
           "dtend": "20200817T120000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976620-0025-355d-8e57-3aef7d14a579",
           "description": "Hi\\, my name is Dani and I do maths (data scientist). I understand the world with equations and I cant tell when people lie to me. Being able to read people and tell them what they want to hear is an essential skill if you want to go up on the corporate ladder - lack this skill.\\n\\nHaving been told many times that I am too technical to get promoted\\, I used my technical skills to delve into corporate politics. Large corporations comprise different teams working on the same goals: project delivery and reaching the financial target. Each team comprises members that work towards this goal\\, but also have a selfish motivation: to get promoted and achieve a higher position on the hierarchy. If a team in a corporation is equated to a system and the members of staff are assumed to be agents then game theory can be applied to investigate the rate at which the performance of the team -and therefore the quality of project delivery- will degrade due to the\\nselfish behaviour of the team members. This can be measured using the Price of Anarchy.\\n\\nI will talk about the application of game theory in ethics and the challenges arising from this approach\\, followed by a description of the Prisoners dilemma and its application in behavioural metrics. The Price of Anarchy (PoA) will then be defined followed by the presentation of the selfish routing and of different types of the PoA depending on the equilibria and the information achieved. I will also talk about prediction models and outcomes based on this approach. Finally\\, the potential application of the PoA approach in corporate environments will be discussed.\\n\\nI aim to explain game theory while addressing the frustration that some corporate behaviours are causing to creative people and/or people that think out of the box in a fun and approachable way. I hope that at the end of this talk people will feel more confident with game theory and will understand that they are not alone when facing workplace politics.",
           "location": "Speakers Tent"
@@ -575,7 +629,7 @@
           "summary": "Placeholder for Hans Gregers Hedegaard Petersen",
           "dtstart": "20200817T120000Z",
           "dtend": "20200817T130000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976656-0025-3840-6794-c69713148f0a",
           "description": "Coming up",
           "location": "Speakers Tent"
@@ -584,7 +638,7 @@
           "summary": "Kameraer og ansigtsgenkendelse i det offentlige rum",
           "dtstart": "20200817T130000Z",
           "dtend": "20200817T150000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976692-0025-3856-c774-757140444d28",
           "description": "This event is a Panel Discussion in Danish.\\n\\nThe topic is CCTV and facial recognition in the public space.\\n\\nThis event will be moderated by the Danish journalist Anders Kjrulff.",
           "location": "Speakers Tent"
@@ -593,7 +647,7 @@
           "summary": "State of the Network",
           "dtstart": "20200817T150000Z",
           "dtend": "20200817T160000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976764-0025-3335-f6aa-5e7d5d14afcb",
           "description": "Come and meet the network team who will talk about the design and operation of the network at BornHack.",
           "location": "Speakers Tent"
@@ -602,7 +656,7 @@
           "summary": "Goodbye World",
           "dtstart": "20200817T160000Z",
           "dtend": "20200817T170000Z",
-          "dtstamp": "20200810T064033Z",
+          "dtstamp": "20200814T075215Z",
           "uid": "15976800-0025-3303-5545-4f10ddb432ba",
           "description": "BornHack 2020 is almost over at this point. We would like to say farewell for now and see you again at the next event in 2021.\\n\\nWe will walk over what we believe has worked and what we believe should change the next event. This is an excellent opportunity to submit ideas for BornHack 2021 while the memories are still fresh.",
           "location": "Speakers Tent"
